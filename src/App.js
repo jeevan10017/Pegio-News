@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
 
 const App = () => {
-  const pageSize = 6;
+  const pageSize = 8;
   const apiKey = "87acc4621d0843fa8a2bcf5fe7efd4c9";
 
   const [progress, setProgress] = useState(0);
