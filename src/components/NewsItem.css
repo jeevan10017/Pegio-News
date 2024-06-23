@@ -1,0 +1,38 @@
+.news-item .card {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .news-item .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .news-item .badge-container {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+    margin: 5px;
+  }
+  
+  .news-item .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .news-item .card-body {
+    padding: 15px;
+  }
+  
+  .news-item .card-title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .news-item .card-text {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  

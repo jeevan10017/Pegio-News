@@ -1,0 +1,14 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .p-4 {
+    padding: 1.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    .text-center {
+      font-size: 1.2rem;
+    }
+  }
+  
