@@ -1,6 +1,10 @@
 # Pegio-News
+![Logo](![favicon ico](https://github.com/jeevan10017/Pegio-News/assets/132948936/a0bbf2fc-aea5-4fea-9f1d-97624cee7a70)
+)
 
-Pegio-News is a news aggregation app built using React JS that fetches the latest news articles from the News API. The app features various categories of news and provides an infinite scroll experience for seamless browsing.
+Pegio-News is a news aggregation app built using React JS that fetches the latest news articles from the News API. The app features various news categories and provides an infinite scroll experience for seamless browsing.
+![Home Page](![Screenshot 2024-06-23 193344](https://github.com/jeevan10017/Pegio-News/assets/132948936/d4ef741b-f5f4-4635-bafd-98eaff83c32f)
+)
 
 ## Table of Contents
 1. [Tech Stack](#tech-stack)
@@ -12,6 +16,7 @@ Pegio-News is a news aggregation app built using React JS that fetches the lates
 7. [YouTube Video](#youtube-video)
 8. [Contributors](#contributors)
 9. [Author](#author)
+
 
 ## Tech Stack
 - **React JS**: Frontend framework
@@ -63,12 +68,27 @@ Ensure you have the following environment variables set in your `.env` file:
 REACT_APP_NEWS_API="your_news_api_key"
 ```
 
-## Environment Variables
+## Screenshots
+![Business News](![Screenshot 2024-06-23 193359](https://github.com/jeevan10017/Pegio-News/assets/132948936/ed054b44-c513-40f3-afb0-629cdb0215dc)
+)
+![Responsive_Tech_News](![Screenshot 2024-06-23 193939](https://github.com/jeevan10017/Pegio-News/assets/132948936/c9e4c4fe-ca54-450d-9265-3324f51339cd)
+)
+![Responsive_Navbar](![Screenshot 2024-06-23 194024](https://github.com/jeevan10017/Pegio-News/assets/132948936/0c40b524-5cb9-4242-998e-f18a761c6783)
+)
 
+##Youtube-video
+To see Pegio-News in action, watch the demo video below. The video provides a detailed walkthrough of the application's features, including how to navigate through different news categories, the infinite scrolling experience, and other functionalities.
+[![Watch the demo video](![Screenshot 2024-06-23 193344](https://github.com/jeevan10017/Pegio-News/assets/132948936/d9ea2b83-1cb6-41ab-bf67-49ad281ffb19)
+)]([![Watch the demo video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+)
 
-YouTube Video
-
-
-
-Author
+##Author
 Jeevan Kumar Korra
+Connect with me:
+<p align="left">
+<a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jeevan-kumar-korra-068726252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="[https://facebook.com/yourusername](https://www.facebook.com/korra.jeevan.98/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="facebook" height="30" width="30" /></a>
+<a href="[https://instagram.com/yourusername](https://www.instagram.com/jeevankumarkorra/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="instagram" height="30" width="30" /></a>
+</p>
+```
+
