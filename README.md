@@ -104,13 +104,3 @@ To see Pegio-News in action, watch the demo video below. The video provides a de
 ## Author
 Jeevan Kumar Korra
 
-Connect with me:
-
-
-<p align="left">
-<a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jeevan-kumar-korra-068726252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="[https://facebook.com/yourusername](https://www.facebook.com/korra.jeevan.98/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="facebook" height="30" width="30" /></a>
-<a href="[https://instagram.com/yourusername](https://www.instagram.com/jeevankumarkorra/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="instagram" height="30" width="30" /></a>
-</p>
-```
-
