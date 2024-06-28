@@ -1,6 +1,7 @@
 # Pegio-News
-(https://github.com/jeevan10017/Pegio-News/assets/132948936/dad790b7-63ca-462f-8900-8ea878d85219)
 
+![Logo]((https://github.com/jeevan10017/Pegio-News/assets/132948936/1240cd0c-a208-4836-8380-edb825a6b3d3)
+)
 
 Pegio-News is a news aggregation app built using React JS that fetches the latest news articles from the News API. The app features various news categories and provides an infinite scroll experience for seamless browsing.
 
