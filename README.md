@@ -88,13 +88,15 @@ REACT_APP_NEWS_API="your_news_api_key"
 ![Screenshot 2024-06-23 194024](https://github.com/jeevan10017/Pegio-News/assets/132948936/0c40b524-5cb9-4242-998e-f18a761c6783)
 
 
-## Youtube-video
+## YouTube Video
+To see Pegio-News in action, watch the demo video below. The video provides a detailed walkthrough of the application's features, including how to navigate through different news categories, the infinite scrolling experience, and other functionalities.
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=JPtKxkOWOqE" target="_blank">
+    <img src="https://img.youtube.com/vi/JPtKxkOWOqE/0.jpg" alt="Watch the demo video" style="width:100%;max-width:600px;">
+  </a>
+</div>
 
-If you would like to see Pegio-News in action, you can watch the demo video below. The video provides a detailed walkthrough of the application's features, including navigating different news categories, the infinite scrolling experience, and other functionalities.
-
-[![Watch the demo video](![Screenshot 2024-06-23 193344](https://github.com/jeevan10017/Pegio-News/assets/132948936/504a5dee-ecf1-4471-940e-3b37878ee170)
-)](https://www.youtube.com/watch?v=JPtKxkOWOqE)
 
 
 
